@@ -1,0 +1,19 @@
+Help
+
+Moderation:
+kick, unban, ban, vote, announce, suggest, report
+
+Fun:
+help, hello, time, date, add, substract, multiply, divide, thank, hbd, happybirthday, meme
+
+Economy:
+balance, bal, withdraw, deposit, pay, send, beg, rob, work, dep, with, shop
+
+Music
+play, loop, remove, shuffle, queue, skip, stop, resume, pause, now, volume, leave, summon, join
+
+Support:
+help, support, alert
+
+Developer Commands:
+addmoney, removemoney
